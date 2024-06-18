@@ -120,7 +120,12 @@ Para gestionar el principal proceso de negocio de la empresa, se necesita diseñ
 
 
 ## Capturas de Pantalla
-Adjuntar capturas de pantalla del sistema en ejecución en cada ventana.
+![image](https://github.com/TGO74/Taller3LabProgra2/assets/128320982/47ed7467-69dd-498e-896f-0633bde292a2)
+
+![image](https://github.com/TGO74/Taller3LabProgra2/assets/128320982/0984c9a8-aa1e-49a2-a017-aca9d1e03f4c)
+![image](https://github.com/TGO74/Taller3LabProgra2/assets/128320982/738c7d49-7d3b-4df1-a374-32b14b23b02a)
+
+**Profesor subí las evidencias despues de tiempo, ya que como vió no se podía. Ya lo solucione con otro poryecto** 
 
 ---
 
