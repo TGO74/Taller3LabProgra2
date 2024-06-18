@@ -117,8 +117,7 @@ Para gestionar el principal proceso de negocio de la empresa, se necesita diseñ
   - `perfilPasajero.jsp`: Página de perfil del pasajero.
   - `admin.jsp`: Página de administración de vuelos y aerolíneas.
 
-## Prompts Utilizados con chatGPT
-Adjuntar todos los prompts utilizados con chatGPT para optimizar el proceso de construcción de la solución.
+
 
 ## Capturas de Pantalla
 Adjuntar capturas de pantalla del sistema en ejecución en cada ventana.
